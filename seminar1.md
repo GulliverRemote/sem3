@@ -28,3 +28,7 @@ git add .
 ```
 git status
 ```
+8. Для перемещения между фиксациями используем
+```
+git checkout number
+```
